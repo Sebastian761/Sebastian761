@@ -43,7 +43,7 @@ My name is Sebastian Ocando and I'm a software developer. I'm from Venezuela, li
 
 <!-- icons without padding -->
 
-[1.2]: /discord.svg (twitter icon without padding)
+[1.2]: /discord.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
